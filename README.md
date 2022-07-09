@@ -1,9 +1,8 @@
 
 # Utility applications
 
-- Here is a compilation of some sample utility applications for random use cases
-- All utility applications are written in spring.
+- Some utility python scripts used to automate tasks/explain concepts/learn a technology
 
 |  Application                                           | Description                               |                         
 |--------------------------------------------------------|-------------------------------------------|
-| [JSON Diff Calculator](json-diff-calculator/README.md) | Gives the difference between 2 JSON files |
+| [JSON Diff Calculator](json-diff/README.md) | Gives the difference between 2 JSON files |
